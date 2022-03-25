@@ -22,7 +22,7 @@ git clone  https://github.com/gSpotx2f/luci-app-cpu-status.git
 git clone https://github.com/fw876/helloworld.git
 git clone https://github.com/jerrykuku/lua-maxminddb.git
 git clone https://github.com/jerrykuku/luci-app-vssr.git
-git clone https://github.com/aria2/aria2.hit
+git clone https://github.com/aria2/aria2.git
 #git clone https://github.com/lisaac/luci-app-dockerman.git
 #git clone https://github.com/Iamtokenyes/luci-app-smartdns.git
 #git clone https://github.com/pymumu/smartdns.git
