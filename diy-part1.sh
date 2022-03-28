@@ -16,3 +16,13 @@
 # Add a feed source
 #echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
+
+echo 'src-git OpenAppFilter https://github.com/destan19/OpenAppFilter' >>feeds.conf.default
+echo 'src-git luci-app-adguardhome https://github.com/rufengsuixing/luci-app-adguardhome' >>feeds.conf.default
+echo 'src-git luci-app-cpu-status https://github.com/gSpotx2f/luci-app-cpu-status' >>feeds.conf.default
+echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
+echo 'src-git lua-maxminddb https://github.com/jerrykuku/lua-maxminddb' >>feeds.conf.default
+echo 'src-git luci-app-vssr https://github.com/jerrykuku/luci-app-vssr' >>feeds.conf.default
+echo 'src-git aria2 https://github.com/aria2/aria2' >>feeds.conf.default
+echo 'src-git netspeedtest  https://github.com/sirpdboy/netspeedtest' >>feeds.conf.default
+
